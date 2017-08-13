@@ -1,0 +1,7 @@
+{
+  "name": "react-handle-event",
+  "description": "Utility that enables the usage of Event Listener interface in React components",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Alexey Raspopov"
+}
